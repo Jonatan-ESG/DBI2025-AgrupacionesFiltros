@@ -1,0 +1,25 @@
+En equipos de 2 a 4 personas, resuelvan los siguientes desafíos utilizando consultas SQL sobre la base de datos de ventas. Cada reto pone a prueba sus habilidades para:
+Aplicar filtros con WHERE
+Usar JOINs entre múltiples tablas
+Agrupar datos con GROUP BY
+Filtrar agrupaciones con HAVING
+Usar funciones de fecha, agregación y ordenamiento
+Los resultados deben ser precisos, claros y ordenados. Pueden consultar entre equipos, pero cada grupo debe escribir y justificar su propia solución.
+
+🔹 Reto 1 – Top compradores del año
+Mostrar los 5 clientes que más dinero han gastado en total durante el último año, ordenados del mayor al menor.
+
+🔹 Reto 2 – Categorías sin productos vendidos
+Encontrar las categorías que no han tenido ningún producto vendido.
+
+🔹 Reto 3 – Días con mayor volumen de ventas
+Listar los 3 días con más cantidad de productos vendidos (sumando todas las ventas del día).
+
+🔹 Reto 4 – Productos con mejor desempeño en stock
+Mostrar los productos que han vendido más del 50% de su stock actual.
+
+🔹 Reto 5 – Clientes sin compras pero con carritos
+Encontrar los clientes que no han realizado ninguna compra, pero tienen al menos un carrito creado.
+
+
+Entregar un archivo .sql o .txt

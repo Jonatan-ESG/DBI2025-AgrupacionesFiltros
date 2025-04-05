@@ -14,7 +14,7 @@ Este repositorio contiene ejemplos y ejercicios prácticos para la clase de **Ba
 
 - `filtros.sql`: Ejemplos básicos y avanzados usando la cláusula `WHERE` con distintos operadores (`IN`, `LIKE`, `BETWEEN`, etc.)
 - `agrupaciones.sql`: Ejemplos básicos y avanzados usando `GROUP BY` y `HAVING`
-- `desafios_grupales.sql` *(opcional)*: Consultas complejas para trabajar en grupos
+- `desafios_grupales.txt`: Consultas complejas para trabajar en grupos
 
 ---
 
